@@ -1,2 +1,7 @@
-# CS94N Personal Ad
+# Lain (Zelal) Mustafaoglu
+
+Department of Computer Science
+zsm@utexas.edu
+
+
 
