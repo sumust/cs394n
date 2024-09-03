@@ -6,7 +6,7 @@ zsm@utexas.edu
 
 My research interests include deep learning, AI in healthcare, and other interdisciplinary applications of AI. 
 
-My current research are is reinforcement learning for programming languages and systems.
+My current research area is reinforcement learning for programming languages and systems.
 
 I also have a background in full-stack web development, cybersecurity, and dealing with data. 
 
