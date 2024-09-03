@@ -4,11 +4,11 @@ Department of Computer Science
 
 zsm@utexas.edu
 
-My research area is....
+My research interests include deep learning, AI in healthcare, and other interdisciplinary applications of AI. 
 
-I also have a background in...
+My current research are is reinforcement learning for programming languages and systems.
 
-and I have hidden talents in...
+I also have a background in full-stack web development, cybersecurity, and dealing with data. 
 
 Three potential topics I'd be interested in working on are:
 
